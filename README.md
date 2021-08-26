@@ -17,5 +17,5 @@ Projeto App Todo List([conteúdo de referência](https://www.youtube.com/watch?v
 
 ## ⚙ Settings
 * Para executar o projeto basta rodar o arquivo index em algum browser
-* Ou acessar: https://pabloxt14.github.io/Stopwatch/
+* Ou acessar: https://pabloxt14.github.io/Todo-List/
 * Obs: a página está responsiva, então pode executá-la até mesmo no celular
